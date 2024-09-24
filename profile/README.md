@@ -1,6 +1,6 @@
 ---
 ---
-
+## Still in development, links are broken until learning hub is deployed!
 # About
 
 Hello Students!! :smiley::wink:,
